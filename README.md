@@ -2,26 +2,18 @@
 <img src="https://i.pinimg.com/originals/b3/a1/b5/b3a1b557df15cdc8c2a34daa5667b4c7.jpg" align="center" style="width: 100%" />
 </div>  
   
-  <h1>¡Hola!</h1>
-### <div align="center">Bienvenidos al repositorio de un desarrollador web Full Stack con poca experiencia pero mucho entusiasmo y ganas de aprender.</div>  
+# Repositorio de Desarrollador Web Full Stack MERN
+
+¡Bienvenidos! Este es el perfil de un desarrollador web Full Stack entusiasta y apasionado, que está en constante aprendizaje.
 
 <p align="center">
-En este repositorio encontrarás proyectos personales y de aprendizaje que he desarrollado en los últimos meses, con el fin de adquirir nuevas habilidades en el desarrollo web.
+En este perfil encontrarás proyectos personales y de aprendizaje que he desarrollado en los últimos meses, con el fin de adquirir nuevas habilidades en el desarrollo web.
 
-He aprendido muchas tecnologías en poco tiempo, de forma implícita, lo que me ha permitido adquirir habilidades en varias áreas del desarrollo web. Algunas de las tecnologías que domino incluyen React, Next.js, JavaScript, TypeScript, JSON Web Token, Bootstrap, Less, CSS, Node.js, Express, PostgreSQL, Sequelize, MongoDB, Mongoose, entre otras.
+## Tecnologías
 
-En este repositorio encontrarás proyectos donde he aplicado estas tecnologías en diferentes áreas del desarrollo web, como aplicaciones web y móviles, integración de bases de datos, autenticación de usuarios, etc.
-
-Estoy buscando una oportunidad laboral para seguir creciendo como desarrollador y aplicar mis habilidades en proyectos desafiantes y emocionantes. Si estás interesado en mi trabajo, puedes contactarme a través de mis redes sociales, donde podrás ver más de mis proyectos y experiencias.
-
-¡Gracias por visitar mi repositorio!
-</p>
- 
-<br/>  
-
-
-## Tecnologias y herramientas que actualmente domino 
-<table><tr><td valign="top" width="33%">
+En mi formación he adquirido conocimientos y habilidades en diversas tecnologías, entre las que se encuentran:
+  
+  <table><tr><td valign="top" width="33%">
 
 
 
@@ -60,10 +52,23 @@ Estoy buscando una oportunidad laboral para seguir creciendo como desarrollador 
 
 </tr></table>  
 
+En este repositorio encontrarás proyectos donde he aplicado estas tecnologías en diferentes áreas del desarrollo web, como aplicaciones web, integración de bases de datos, autenticación de usuarios, etc.
+
+Estoy buscando una oportunidad laboral para seguir creciendo como desarrollador y aplicar mis habilidades en proyectos desafiantes y emocionantes. Si estás interesado en mi trabajo, puedes contactarme a través de mis redes sociales, donde podrás ver más de mis proyectos y experiencias.
+
+
+</p>
+ 
 <br/>  
 
+## Agradecimientos
 
-## Si estás interesado en mi trabajo, puedes contactarme a través de mis redes sociales, donde podrás ver más de mis proyectos y experiencias: 
+Quiero agradecer especialmente a la academia de SoyHenry por brindarme la oportunidad de aprender y mejorar mis habilidades en el desarrollo web en un corto período de tiempo.
+
+## Contacto
+
+Actualmente, estoy buscando nuevas oportunidades laborales para seguir creciendo y aplicar mis habilidades en proyectos emocionantes y desafiantes. Si estás interesado en mi trabajo, no dudes en contactarme a través de mis redes sociales:
+
 <div align="center">
 <a href="https://www.linkedin.com/in/hectormarrufor/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -132,7 +137,7 @@ Estoy buscando una oportunidad laboral para seguir creciendo como desarrollador 
 
 
 <br/>  
-
+¡Gracias por visitar mi repositorio y espero que encuentres algo que te interese!
 
 
   
