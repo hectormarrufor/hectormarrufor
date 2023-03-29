@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/b3/a1/b5/b3a1b557df15cdc8c2a34daa5667b4c7.jpg" align="center" style="width: 100%" />
 </div>  
   
-# Repositorio de Desarrollador Web Full Stack MERN
+# Perfil de Desarrollador Web Full Stack MERN
 
 ¡Bienvenidos! Este es el perfil de un desarrollador web Full Stack entusiasta y apasionado, que está en constante aprendizaje.
 
