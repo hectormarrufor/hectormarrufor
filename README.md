@@ -122,7 +122,7 @@ Actualmente, estoy buscando nuevas oportunidades laborales para seguir creciendo
     <tr>
       <td>
         <a href="https://github.com/hectormarrufor/proyecto-individual-henry" target="_blank">
-          <img src="" alt="imagen del proyecto" width="500">
+          <img src="https://github.com/hectormarrufor/proyecto-individual-henry/raw/main/dog.png" alt="imagen del proyecto" width="500">
         </a>
       </td>
     </tr>
