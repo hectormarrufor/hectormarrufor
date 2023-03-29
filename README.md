@@ -1,16 +1,140 @@
-### Hi there 👋
+<div align="center">
+<img src="https://i.pinimg.com/originals/b3/a1/b5/b3a1b557df15cdc8c2a34daa5667b4c7.jpg" align="center" style="width: 100%" />
+</div>  
+  
+  <h1>¡Hola!</h1>
+### <div align="center">Bienvenidos al repositorio de un desarrollador web Full Stack con poca experiencia pero mucho entusiasmo y ganas de aprender.</div>  
 
-<!--
-**hectormarrufor/hectormarrufor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+En este repositorio encontrarás proyectos personales y de aprendizaje que he desarrollado en los últimos meses, con el fin de adquirir nuevas habilidades en el desarrollo web.
 
-Here are some ideas to get you started:
+He aprendido muchas tecnologías en poco tiempo, de forma implícita, lo que me ha permitido adquirir habilidades en varias áreas del desarrollo web. Algunas de las tecnologías que domino incluyen React, Next.js, JavaScript, TypeScript, JSON Web Token, Bootstrap, Less, CSS, Node.js, Express, PostgreSQL, Sequelize, MongoDB, Mongoose, entre otras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En este repositorio encontrarás proyectos donde he aplicado estas tecnologías en diferentes áreas del desarrollo web, como aplicaciones web y móviles, integración de bases de datos, autenticación de usuarios, etc.
+
+Estoy buscando una oportunidad laboral para seguir creciendo como desarrollador y aplicar mis habilidades en proyectos desafiantes y emocionantes. Si estás interesado en mi trabajo, puedes contactarme a través de mis redes sociales, donde podrás ver más de mis proyectos y experiencias.
+
+¡Gracias por visitar mi repositorio!
+</p>
+ 
+<br/>  
+
+
+## Tecnologias y herramientas que actualmente domino 
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>   
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+</div>
+
+</tr></table>  
+
+<br/>  
+
+
+## Si estás interesado en mi trabajo, puedes contactarme a través de mis redes sociales, donde podrás ver más de mis proyectos y experiencias: 
+<div align="center">
+<a href="https://www.linkedin.com/in/hectormarrufor/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/hectorhautbois/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+<h2 align="center">Projectos</h2>
+<div align="center">
+  <h4>Mis proyectos:</h4>
+  
+  <table width="500">
+    <tr>
+      <td>
+        <h3 align="center">SOMOS CRACKS</h3>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://somoscracks.vercel.app" target="_blank">
+          <img src="https://portfolio-oleydi.vercel.app/static/media/somoscracks.2cf605f878559f33354c.png" width="500">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://somoscracks.vercel.app" target="_blank">Deploy</a>
+        -
+        -
+        <a href="https://github.com/hectormarrufor/somoscracks" target="_blank">Repo</a>
+      </td>
+    </tr>
+  </table>
+  <table width="500">
+    <tr>
+      <td>
+        <h3 align="center">Dogs API</h3>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/hectormarrufor/proyecto-individual-henry" target="_blank">
+          <img src="" alt="imagen del proyecto" width="500">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="" target="_blank">Deploy</a>
+        -
+        -
+        <a href="https://github.com/hectormarrufor/proyecto-individual-henry" target="_blank">Repo</a>
+      </td>
+    </tr>
+  </table>
+     </div>
+</div>
+</div>
+
+
+
+<br/>  
+
+
+
+  
+
+<br/>  
